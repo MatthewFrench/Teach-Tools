@@ -1,0 +1,576 @@
+TTeach Tools
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004D47225F0000000000000110
+t1296507487
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC12BE50000000000050EB0
+t1287728101
+s331440
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Apple Logo.png
+c000000004C5880780000000000007EEA
+t1280868472
+s32490
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Background.png
+c000000004C40DEBC00000000000181DA
+t1279319740
+s98778
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Bigger Shiney Black Button iPhone.png
+c000000004C45238C000000000000226E
+t1279599500
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Black Sphere Button.png
+c000000004C41FBBF0000000000001D69
+t1279392703
+s7529
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.h
+c000000004C40F16800000000000000D2
+t1279324520
+s210
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m
+c000000004C40F25A0000000000000240
+t1279324762
+s576
+i"InfoView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.h
+c000000004C58932100000000000000FB
+t1280873249
+s251
+i<Foundation/Foundation.h>
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m
+c000000004C5894BA00000000000003D1
+t1280873658
+s977
+i"MainWindow.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.h
+c000000004C3FAAEB0000000000000123
+t1279240939
+s291
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m
+c000000004C3FC1940000000000000486
+t1279246740
+s1158
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.h
+c000000004C451BBC000000000000010A
+t1279597500
+s266
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m
+c000000004C58952B0000000000000914
+t1280873771
+s2324
+i"Selector View.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.h
+c000000004C9E78B40000000000000B0F
+t1285454004
+s2831
+i<UIKit/UIKit.h>
+i"UITextViewFix.h"
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"Selector View.h"
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m
+c000000004C9E787D0000000000007C10
+t1285453949
+s31760
+i"TabController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.h
+c000000004C3FC0CC00000000000001FC
+t1279246540
+s508
+i<UIKit/UIKit.h>
+i"UITextViewFix.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m
+c000000004C58952B0000000000000D74
+t1280873771
+s3444
+i"Timer View.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.h
+c000000004C3F4A2500000000000000E4
+t1279216165
+s228
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m
+c000000004C42598E000000000000011D
+t1279416718
+s285
+i"UITextViewFix.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.h
+c000000004C9DFB5400000000000001F1
+t1285421908
+s497
+i<UIKit/UIKit.h>
+i"TabController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m
+c000000004CAFCE5800000000000015AD
+t1286590040
+s5549
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Default.png
+c000000004C588B10000000000002B22F
+t1280871184
+s176687
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Icon.png
+c000000004C59A0CE00000000000023DF
+t1280942286
+s9183
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib
+c000000004C9E795100000000000267C0
+t1285454161
+s157632
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Selector.png
+c000000004C3E98C40000000000000E8A
+t1279170756
+s3722
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Shiney Black Button iPhone.png
+c000000004C41E1BE0000000000001F19
+t1279386046
+s7961
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Sphere Button.png
+c000000004C3F389100000000000013CC
+t1279211665
+s5068
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Timer Ting.aiff
+c000000004C58D00400000000000C4E36
+t1280888836
+s806454
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app
+t1286590236
+s748
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app.dSYM
+t1286590236
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Apple Logo.png
+t1286590230
+s29419
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Background.png
+t1286590232
+s103327
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Bigger Shiney Black Button iPhone.png
+t1286590230
+s9063
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Black Sphere Button.png
+t1286590230
+s7371
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Default.png
+t1286590230
+s126876
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Icon.png
+t1286590228
+s9193
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Info.plist
+t1286590226
+s889
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/MainWindow.nib
+t1286590228
+s23934
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/PkgInfo
+t1286590226
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/ResourceRules.plist
+t1286590226
+s485
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Selector.png
+t1286590226
+s3679
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Shiney Black Button iPhone.png
+t1286590230
+s8262
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Sphere Button.png
+t1286590226
+s4223
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Teach Tools
+t1286590236
+s155968
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Timer Ting.aiff
+t1286590230
+s806454
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/embedded.mobileprovision
+t1286590236
+s7047
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/pen.png
+t1286590226
+s1587
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/timer-icongif.png
+t1286590226
+s4892
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/InfoView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/MainWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/NotesTextView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Selector View.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/TabController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Teach Tools
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Teach Tools.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Timer View.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/UITextViewFix.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/tab_testAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/InfoView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/MainWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/NotesTextView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Selector View.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/TabController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Teach Tools
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Teach Tools.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Timer View.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/UITextViewFix.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/tab_testAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m
+c000000004C3E9D030000000000000168
+t1279171843
+s360
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/pen.png
+c000000004C3FA42B0000000000000641
+t1279239211
+s1601
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/tab_test_Prefix.pch
+c000000004C3E9D0300000000000000B9
+t1279171843
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/timer-icongif.png
+c000000004C3E981500000000000012D2
+t1279170581
+s4818
+
+N/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3EC676B-294F-46E7-8500-886F2902BA0C.mobileprovision
+c000000004C1FEA630000000000001B87
+t1277160035
+s7047
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-awmpzykzsfxrfngsdgjrgdswtowa/tab_test_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-dswylesbwpvdjwbulhlmecavlhjd/tab_test_Prefix.pch.gch
+t2
+s0
+
+Ntab_test-Info.plist
+c000000004CAFCF11000000000000043E
+t1286590225
+s1086
+
+CCodeSign "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app"
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/InfoView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/MainWindow.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/NotesTextView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Selector View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/TabController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Timer View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/UITextViewFix.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/tab_testAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/InfoView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/MainWindow.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/NotesTextView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Selector View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/TabController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Timer View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/UITextViewFix.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/tab_testAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Apple Logo.png" "Apple Logo.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Background.png" Background.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Black Sphere Button.png" "Black Sphere Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Selector.png" Selector.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Shiney Black Button iPhone.png" "Shiney Black Button iPhone.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Sphere Button.png" "Sphere Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/pen.png" pen.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/timer-icongif.png" timer-icongif.png
+r0
+
+CCpResource "build/Release-iphoneos/Teach Tools.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Release-iphoneos/Teach Tools.app/Timer Ting.aiff" "Timer Ting.aiff"
+r0
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Teach Tools" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Teach Tools"
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv6/Teach Tools" normal armv6
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Objects-normal/armv7/Teach Tools" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/Info.plist" tab_test-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-awmpzykzsfxrfngsdgjrgdswtowa/tab_test_Prefix.pch.gch tab_test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-dswylesbwpvdjwbulhlmecavlhjd/tab_test_Prefix.pch.gch tab_test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3EC676B-294F-46E7-8500-886F2902BA0C.mobileprovision" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphoneos/Teach Tools.build/Teach Tools.xcent"
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app"
+r0
+
+CValidate "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphoneos/Teach Tools.app"
+r0
+

@@ -1,0 +1,183 @@
+TTeach Tools
+v7
+r1
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Apple Logo.png
+c000000004C5880780000000000007EEA
+t1280868472
+s32490
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Background.png
+c000000004C40DEBC00000000000181DA
+t1279319740
+s98778
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Bigger Shiney Black Button iPhone.png
+c000000004C45238C000000000000226E
+t1279599500
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Black Sphere Button.png
+c000000004C41FBBF0000000000001D69
+t1279392703
+s7529
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Default.png
+c000000004C588B10000000000002B22F
+t1280871184
+s176687
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Icon.png
+c000000004C59A0CE00000000000023DF
+t1280942286
+s9183
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib
+c000000004C9E795100000000000267C0
+t1285454161
+s157632
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Selector.png
+c000000004C3E98C40000000000000E8A
+t1279170756
+s3722
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Shiney Black Button iPhone.png
+c000000004C41E1BE0000000000001F19
+t1279386046
+s7961
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Sphere Button.png
+c000000004C3F389100000000000013CC
+t1279211665
+s5068
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Timer Ting.aiff
+c000000004C58D00400000000000C4E36
+t1280888836
+s806454
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Apple Logo.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Background.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Bigger Shiney Black Button iPhone.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Black Sphere Button.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Default.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Icon.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Selector.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Shiney Black Button iPhone.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Sphere Button.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Timer Ting.aiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/pen.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/timer-icongif.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/pen.png
+c000000004C3FA42B0000000000000641
+t1279239211
+s1601
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/timer-icongif.png
+c000000004C3E981500000000000012D2
+t1279170581
+s4818
+
+Ntab_test-Info.plist
+c000000004CAFCF11000000000000043E
+t1286590225
+s1086
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Apple Logo.png" "Apple Logo.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Background.png" Background.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Black Sphere Button.png" "Black Sphere Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Selector.png" Selector.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Shiney Black Button iPhone.png" "Shiney Black Button iPhone.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Sphere Button.png" "Sphere Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/pen.png" pen.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/timer-icongif.png" timer-icongif.png
+r0
+
+CCpResource "build/Debug-iphoneos/Teach Tools.app/Timer Ting.aiff" "Timer Ting.aiff"
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app/Info.plist" tab_test-Info.plist
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Debug-iphoneos/Teach Tools.app"
+r0
+

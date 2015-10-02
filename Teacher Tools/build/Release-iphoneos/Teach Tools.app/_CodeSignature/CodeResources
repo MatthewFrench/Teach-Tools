@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Apple Logo.png</key>
+		<data>
+		joWdFfvXquP0yuFLmifs2golFQM=
+		</data>
+		<key>Background.png</key>
+		<data>
+		6fb+r4FmjUb/4DkYwepzOjQXhoE=
+		</data>
+		<key>Bigger Shiney Black Button iPhone.png</key>
+		<data>
+		FAlW2P8KKUtBKeRypKz91sE20bE=
+		</data>
+		<key>Black Sphere Button.png</key>
+		<data>
+		uAbyk0PnLjgPqXFXd3mAOVrAsHM=
+		</data>
+		<key>Default.png</key>
+		<data>
+		PeqJSZwZVnWIJqT/yy41tgrN3+A=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		W1/rneqIgVE8PExwNUAhPeCb0eA=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		wequH5w2MNg7muanD1rfBpndCoE=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Selector.png</key>
+		<data>
+		N6jrrMNW2lJ7SJ9go9Jolj3xgEs=
+		</data>
+		<key>Shiney Black Button iPhone.png</key>
+		<data>
+		VcJsatt/VL8MvfZXSOjKX+XZjcs=
+		</data>
+		<key>Sphere Button.png</key>
+		<data>
+		Dkdx8g8IlTKG09cTbx9tetpFU5E=
+		</data>
+		<key>Timer Ting.aiff</key>
+		<data>
+		ZE1CZmtr/Z4O5wvJomeC7PGMiQg=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		qGarxIP8HafRLkW82xkIkC8TLjI=
+		</data>
+		<key>pen.png</key>
+		<data>
+		zxusEeZWHh1MVlUavbdXGnXVipE=
+		</data>
+		<key>timer-icongif.png</key>
+		<data>
+		LysueZOLua9Ng8n7GxLeWRd/fJI=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

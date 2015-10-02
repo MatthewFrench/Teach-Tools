@@ -1,0 +1,697 @@
+TTeach Tools
+v7
+r0
+t320284954.703191
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Info.plist" tab_test-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Selector.png" Selector.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/timer-icongif.png" timer-icongif.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Sphere Button.png" "Sphere Button.png"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/pen.png" pen.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Default.png" Default.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Icon.png" Icon.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Background.png" Background.png
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Shiney Black Button iPhone.png" "Shiney Black Button iPhone.png"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Black Sphere Button.png" "Black Sphere Button.png"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Apple Logo.png" "Apple Logo.png"
+cCpResource "build/Release-iphonesimulator/Teach Tools.app/Timer Ting.aiff" "Timer Ting.aiff"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch.gch tab_test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/tab_testAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/TabController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Timer View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/UITextViewFix.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/NotesTextView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/MainWindow.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/InfoView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Selector View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools"
+cTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4722A00000000000000110
+t1296507552
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC65780000000000002F590
+t1288066944
+s193936
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Apple Logo.png
+c000000004C5880780000000000007EEA
+t1280868472
+s32490
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Background.png
+c000000004C40DEBC00000000000181DA
+t1279319740
+s98778
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Bigger Shiney Black Button iPhone.png
+c000000004C45238C000000000000226E
+t1279599500
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Black Sphere Button.png
+c000000004C41FBBF0000000000001D69
+t1279392703
+s7529
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.h
+c000000004C40F16800000000000000D2
+t1279324520
+s210
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m
+c000000004C40F25A0000000000000240
+t1279324762
+s576
+i"InfoView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.h
+c000000004C58932100000000000000FB
+t1280873249
+s251
+i<Foundation/Foundation.h>
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m
+c000000004C5894BA00000000000003D1
+t1280873658
+s977
+i"MainWindow.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.h
+c000000004C3FAAEB0000000000000123
+t1279240939
+s291
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m
+c000000004C3FC1940000000000000486
+t1279246740
+s1158
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.h
+c000000004C451BBC000000000000010A
+t1279597500
+s266
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m
+c000000004C58952B0000000000000914
+t1280873771
+s2324
+i"Selector View.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.h
+c000000004C9E78B40000000000000B0F
+t1285454004
+s2831
+i<UIKit/UIKit.h>
+i"UITextViewFix.h"
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"Selector View.h"
+i"NotesTextView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m
+c000000004C9E787D0000000000007C10
+t1285453949
+s31760
+i"TabController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.h
+c000000004C3FC0CC00000000000001FC
+t1279246540
+s508
+i<UIKit/UIKit.h>
+i"UITextViewFix.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m
+c000000004C58952B0000000000000D74
+t1280873771
+s3444
+i"Timer View.h"
+i"TabController.h"
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.h
+c000000004C3F4A2500000000000000E4
+t1279216165
+s228
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m
+c000000004C42598E000000000000011D
+t1279416718
+s285
+i"UITextViewFix.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.h
+c000000004C9DFB5400000000000001F1
+t1285421908
+s497
+i<UIKit/UIKit.h>
+i"TabController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m
+c000000004CAFCE5800000000000015AD
+t1286590040
+s5549
+i"tab_testAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Default.png
+c000000004C588B10000000000002B22F
+t1280871184
+s176687
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Icon.png
+c000000004C59A0CE00000000000023DF
+t1280942286
+s9183
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib
+c000000004C9E795100000000000267C0
+t1285454161
+s157632
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Selector.png
+c000000004C3E98C40000000000000E8A
+t1279170756
+s3722
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Shiney Black Button iPhone.png
+c000000004C41E1BE0000000000001F19
+t1279386046
+s7961
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Sphere Button.png
+c000000004C3F389100000000000013CC
+t1279211665
+s5068
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Timer Ting.aiff
+c000000004C58D00400000000000C4E36
+t1280888836
+s806454
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app
+t1298592154
+s612
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app.dSYM
+t1298592154
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Apple Logo.png
+t1298592150
+s32490
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Background.png
+t1298592150
+s98778
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Bigger Shiney Black Button iPhone.png
+t1298592150
+s8814
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Black Sphere Button.png
+t1298592150
+s7529
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Default.png
+t1298592150
+s176687
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Icon.png
+t1298592150
+s9183
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Info.plist
+t1298592150
+s754
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/MainWindow.nib
+t1298592151
+s24030
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/PkgInfo
+t1298592150
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Selector.png
+t1298592150
+s3722
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Shiney Black Button iPhone.png
+t1298592150
+s7961
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Sphere Button.png
+t1298592150
+s5068
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools
+t1298592154
+s85528
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Timer Ting.aiff
+t1298592150
+s806454
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/pen.png
+t1298592150
+s1601
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/timer-icongif.png
+t1298592150
+s4818
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/InfoView.o
+t1298592154
+s36964
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/MainWindow.o
+t1298592153
+s51032
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/NotesTextView.o
+t1298592153
+s40772
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Selector View.o
+t1298592154
+s52500
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/TabController.o
+t1298592154
+s135856
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Teach Tools.LinkFileList
+c000000004D66F1960000000000000634
+t1298592150
+s1588
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Timer View.o
+t1298592153
+s55936
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/UITextViewFix.o
+t1298592153
+s37044
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/main.o
+t1298592152
+s6352
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/tab_testAppDelegate.o
+t1298592153
+s64600
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m
+c000000004C3E9D030000000000000168
+t1279171843
+s360
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/pen.png
+c000000004C3FA42B0000000000000641
+t1279239211
+s1601
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/tab_test_Prefix.pch
+c000000004C3E9D0300000000000000B9
+t1279171843
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/timer-icongif.png
+c000000004C3E981500000000000012D2
+t1279170581
+s4818
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch.gch
+t1298592152
+s15133904
+
+Ntab_test-Info.plist
+c000000004CAFCF11000000000000043E
+t1286590225
+s1086
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320284950#320284950#0(0"0(0#1#0"8611551232#0"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/InfoView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284953.958923
+e320284954.062255
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/InfoView.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m320284953#320284954#0(0"0(0#0#88"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m8613505504#2468"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/InfoView.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/InfoView.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/MainWindow.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284953.729630
+e320284953.958795
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/MainWindow.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m320284953#320284953#0(0"0(0#0#90"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m8605600544#2472"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/MainWindow.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/MainWindow.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/NotesTextView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284953.631598
+e320284953.729504
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/NotesTextView.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m320284953#320284953#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m8612716608#2478"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/NotesTextView.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/NotesTextView.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Selector View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284954.062398
+e320284954.302607
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Selector View.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m320284954#320284954#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m8612733152#2478"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Selector View.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Selector View.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/TabController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284952.853868
+e320284954.584365
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/TabController.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m320284952#320284954#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m8613001856#2478"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/TabController.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/TabController.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Timer View.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284953.294563
+e320284953.536090
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Timer View.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m320284953#320284953#0(0"0(0#0#90"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m8612549216#2472"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/Timer View.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Timer View.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/UITextViewFix.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284953.536229
+e320284953.631470
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/UITextViewFix.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m320284953#320284953#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m8613505280#2478"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/UITextViewFix.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/UITextViewFix.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284952.768377
+e320284952.853733
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m320284952#320284952#0(0"0(0#0#76"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m8612300352#2452"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/main.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/tab_testAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284952.769862
+e320284953.294381
+r1
+xCompileC
+xbuild/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/tab_testAppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m320284952#320284953#0(0"0(0#0#99"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m8614036128#2490"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Classes/tab_testAppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/tab_testAppDelegate.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib"
+s320284950.220424
+e320284951.765021
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib320284950#320284951#0(1092"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib8614165696#675"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/MainWindow.nib" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Apple Logo.png" "Apple Logo.png"
+s320284950.295406
+e320284950.320256
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Apple Logo.png
+xApple Logo.png
+lSLF07#2@19"Copy Apple Logo.png320284950#320284950#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Apple Logo.png8613477472#598"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Apple Logo.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Background.png" Background.png
+s320284950.265092
+e320284950.383368
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Background.png
+xBackground.png
+lSLF07#2@19"Copy Background.png320284950#320284950#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Background.png8613657184#598"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Background.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Bigger Shiney Black Button iPhone.png" "Bigger Shiney Black Button iPhone.png"
+s320284950.278005
+e320284950.357478
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Bigger Shiney Black Button iPhone.png
+xBigger Shiney Black Button iPhone.png
+lSLF07#2@42"Copy Bigger Shiney Black Button iPhone.png320284950#320284950#0(0"0(0#0#107"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Bigger Shiney Black Button iPhone.png8614561600#621"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Bigger Shiney Black Button iPhone.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Black Sphere Button.png" "Black Sphere Button.png"
+s320284950.279927
+e320284950.362116
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Black Sphere Button.png
+xBlack Sphere Button.png
+lSLF07#2@28"Copy Black Sphere Button.png320284950#320284950#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Black Sphere Button.png8613861536#607"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Black Sphere Button.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Default.png" Default.png
+s320284950.255711
+e320284950.384729
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png320284950#320284950#0(0"0(0#0#81"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Default.png8611710080#595"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Default.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Icon.png" Icon.png
+s320284950.262666
+e320284950.320432
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png320284950#320284950#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Icon.png8613959232#592"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Icon.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Selector.png" Selector.png
+s320284950.227403
+e320284950.279346
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Selector.png
+xSelector.png
+lSLF07#2@17"Copy Selector.png320284950#320284950#0(0"0(0#0#82"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Selector.png8612480352#596"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Selector.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Shiney Black Button iPhone.png" "Shiney Black Button iPhone.png"
+s320284950.271204
+e320284950.320590
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Shiney Black Button iPhone.png
+xShiney Black Button iPhone.png
+lSLF07#2@35"Copy Shiney Black Button iPhone.png320284950#320284950#0(0"0(0#0#100"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Shiney Black Button iPhone.png8612580608#614"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Shiney Black Button iPhone.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Sphere Button.png" "Sphere Button.png"
+s320284950.236923
+e320284950.279676
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Sphere Button.png
+xSphere Button.png
+lSLF07#2@22"Copy Sphere Button.png320284950#320284950#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Sphere Button.png8612745280#601"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Sphere Button.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/Timer Ting.aiff" "Timer Ting.aiff"
+s320284950.315928
+e320284950.404976
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/Timer Ting.aiff
+xTimer Ting.aiff
+lSLF07#2@20"Copy Timer Ting.aiff320284950#320284950#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Timer Ting.aiff8612174304#599"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/Timer Ting.aiff" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/pen.png" pen.png
+s320284950.252866
+e320284950.279829
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/pen.png
+xpen.png
+lSLF07#2@12"Copy pen.png320284950#320284950#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/pen.png8612998048#591"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/pen.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CCpResource "build/Release-iphonesimulator/Teach Tools.app/timer-icongif.png" timer-icongif.png
+s320284950.229810
+e320284950.279519
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Teach Tools.app/timer-icongif.png
+xtimer-icongif.png
+lSLF07#2@22"Copy timer-icongif.png320284950#320284950#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/timer-icongif.png8611854272#601"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/timer-icongif.png" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools"
+s320284954.652050
+e320284954.698277
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools
+lSLF07#2@129"GenerateDSYMFile "build/Release-iphonesimulator/Teach Tools.app.dSYM" "build/Release-iphonesimulator/Teach Tools.app/Teach Tools"320284954#320284954#0(0"0(0#0#127"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools8613049120#498"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools" normal i386
+s320284954.584486
+e320284954.651915
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools
+xnormal
+xi386
+lSLF07#2@132"Link /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools320284954#320284954#0(0"0(0#0#0"8613885920#1172"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Objects-normal/i386/Teach Tools.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -weak_framework UIKit -framework CoreGraphics -weak_framework iAd -framework AVFoundation -framework AudioToolbox -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Teach Tools"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Info.plist" tab_test-Info.plist
+s320284950.215912
+e320284950.220301
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Info.plist
+xtab_test-Info.plist
+lSLF07#2@27"Process tab_test-Info.plist320284950#320284950#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/tab_test-Info.plist7162247809294409728#591"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tab_test-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch.gch tab_test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320284951.765331
+e320284952.768196
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch.gch
+xtab_test_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile tab_test_Prefix.pch320284951#320284952#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/tab_test_Prefix.pch8613823168#2296"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/Teach Tools-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Teacher Tools Old.build/Release-iphonesimulator/Teach Tools.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/tab_test_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tab_test_Prefix-hgybmkqipautlkdjxdrmltemhdxo/tab_test_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"
+s320284954.698610
+e320284954.703136
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app
+lSLF07#2@121"Touch /Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app320284954#320284954#0(0"0(0#0#0"8612704000#350"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Teacher Tools Old/build/Release-iphonesimulator/Teach Tools.app"0#
+
