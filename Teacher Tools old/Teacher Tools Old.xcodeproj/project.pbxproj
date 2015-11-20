@@ -37,7 +37,8 @@
 		34F2115211EFDBBA00F5C99C /* pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F2115111EFDBBA00F5C99C /* pen.png */; };
 		34F2116711EFDEE300F5C99C /* NotesTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34F2116611EFDEE300F5C99C /* NotesTextView.m */; };
 		34F211B011EFE1DF00F5C99C /* MainWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 34F211AF11EFE1DF00F5C99C /* MainWindow.m */; };
-		34F2129E11EFFA9C00F5C99C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F2129D11EFFA9C00F5C99C /* Default.png */; };
+		34F2129E11EFFA9C00F5C99C /* Default gone.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F2129D11EFFA9C00F5C99C /* Default gone.png */; };
+		C911D5931BE9E62F0082AB35 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C911D5921BE9E62F0082AB35 /* Images.xcassets */; };
 		C95297E91BBEED25005EEFED /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C95297E81BBEED25005EEFED /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
@@ -82,8 +83,9 @@
 		34F2116611EFDEE300F5C99C /* NotesTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotesTextView.m; sourceTree = "<group>"; };
 		34F211AE11EFE1DF00F5C99C /* MainWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainWindow.h; sourceTree = "<group>"; };
 		34F211AF11EFE1DF00F5C99C /* MainWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainWindow.m; sourceTree = "<group>"; };
-		34F2129D11EFFA9C00F5C99C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		34F2129D11EFFA9C00F5C99C /* Default gone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default gone.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* tab_test-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "tab_test-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C911D5921BE9E62F0082AB35 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Teach Tools/Images.xcassets"; sourceTree = "<group>"; };
 		C95297E81BBEED25005EEFED /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -160,6 +162,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C911D5921BE9E62F0082AB35 /* Images.xcassets */,
 				34927CD115523BF100A41E06 /* Selector@2x.png */,
 				34927CCF15523A7B00A41E06 /* pen@2x.png */,
 				34927CCD15521D8300A41E06 /* Background.png */,
@@ -167,7 +170,7 @@
 				34927CD515523DE300A41E06 /* Icon.png */,
 				34927CD615523DE300A41E06 /* Icon@2x.png */,
 				349F706311F240190049FEB4 /* Apple Logo.png */,
-				34F2129D11EFFA9C00F5C99C /* Default.png */,
+				34F2129D11EFFA9C00F5C99C /* Default gone.png */,
 				34F2115111EFDBBA00F5C99C /* pen.png */,
 				34927CD315523CAA00A41E06 /* timer-icongif@2x.png */,
 				3495507A11EED55300D9E642 /* Selector.png */,
@@ -221,6 +224,19 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = A52YLWVC6V;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Teacher Tools Old" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -250,11 +266,12 @@
 				3495507C11EED55300D9E642 /* Selector.png in Resources */,
 				3495507D11EED55300D9E642 /* timer-icongif.png in Resources */,
 				34F2115211EFDBBA00F5C99C /* pen.png in Resources */,
-				34F2129E11EFFA9C00F5C99C /* Default.png in Resources */,
+				34F2129E11EFFA9C00F5C99C /* Default gone.png in Resources */,
 				349F706411F240190049FEB4 /* Apple Logo.png in Resources */,
 				34AFEDB6120907BD0043337B /* Timer Ting.aiff in Resources */,
 				3442F7B213173A47005FAF89 /* Black Button.png in Resources */,
 				C95297E91BBEED25005EEFED /* Default-568h@2x.png in Resources */,
+				C911D5931BE9E62F0082AB35 /* Images.xcassets in Resources */,
 				3442F7B313173A47005FAF89 /* Red Button.png in Resources */,
 				3442F7B413173A47005FAF89 /* Silver Button.png in Resources */,
 				34927CCE15521D8300A41E06 /* Background.png in Resources */,
@@ -292,6 +309,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -299,9 +320,10 @@
 				GCC_PREFIX_HEADER = tab_test_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "tab_test-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.matthewfrench.TeachTools;
 				PRODUCT_NAME = "Teach Tools";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -309,15 +331,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = tab_test_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "tab_test-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.matthewfrench.TeachTools;
 				PRODUCT_NAME = "Teach Tools";
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				VALIDATE_PRODUCT = YES;
 			};

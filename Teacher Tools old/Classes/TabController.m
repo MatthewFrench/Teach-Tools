@@ -5,6 +5,33 @@
 
 @synthesize secondsTxt,minutesTxt,hoursTxt, timer,backgroundTime;
 
+
+
+- (void)scheduleAlarmForDate:(NSDate*)theDate
+{
+    UIApplication* app = [UIApplication sharedApplication];
+    NSArray*    oldNotifications = [app scheduledLocalNotifications];
+    
+    // Clear out the old notification before scheduling a new one.
+    if ([oldNotifications count] > 0)
+        [app cancelAllLocalNotifications];
+    
+    // Create a new notification.
+    UILocalNotification* alarm = [[UILocalNotification alloc] init];
+    if (alarm)
+    {
+        alarm.fireDate = theDate;
+        alarm.timeZone = [NSTimeZone defaultTimeZone];
+        alarm.repeatInterval = 0;
+        alarm.soundName = @"alarmsound.caf";
+        alarm.alertBody = @"Time to wake up!";
+        
+        [app scheduleLocalNotification:alarm];
+    }
+}
+
+
+
 //Flips to back when toggle button is pressed
 - (IBAction)toggleInfoView:(id)sender {
 	[secondsTxt resignFirstResponder];
@@ -136,7 +163,9 @@
 }
 - (void)imagePickerController: (UIImagePickerController *)picker didFinishPickingImage: 
 (UIImage *)image editingInfo: (NSDictionary *)editingInfo {
-	[self dismissModalViewControllerAnimated:YES];
+    [self dismissViewControllerAnimated:YES completion:^{
+        
+    }];
 	background = image;
 	[infoBg setImage:background];
 	[timerBg setImage:background];
@@ -326,6 +355,7 @@
 	}
 }
 - (void)playRing {
+    
 	SystemSoundID soundID;
 	NSString *path = [[NSBundle mainBundle]
 					  pathForResource:@"Timer Ting" ofType:@"aiff"];    
@@ -386,6 +416,11 @@
 }
  
 - (void)repositionInterface {
+    //CGRect screenRect = [[UIScreen mainScreen] bounds];
+    //CGFloat screenWidth = screenRect.size.width;
+    //CGFloat screenHeight = screenRect.size.height;
+    
+    /*
 	if(inLandscape){
 		hoursTxt.center = CGPointMake(128,69);
 		minutesTxt.center = CGPointMake(240,69);
@@ -462,7 +497,7 @@
 		numOfStudTxt.center = CGPointMake(246,35);
 		numOfGroupsTxt.center = CGPointMake(246,74);
 		chosenTblView.frame = CGRectMake(0, 231, 320, 180);
-	}
+	}*/
 }
 
 /*
@@ -492,7 +527,7 @@
 	chosenStudents = [NSMutableArray new];
 	chosenGroups = [NSMutableArray new];
 	[chosenTblView setDelegate:self];
-	interfaceTimer = [NSTimer scheduledTimerWithTimeInterval:0.02 target:self selector:@selector(interfaceTimerTick) userInfo:nil repeats:YES];
+	//interfaceTimer = [NSTimer scheduledTimerWithTimeInterval:0.02 target:self selector:@selector(interfaceTimerTick) userInfo:nil repeats:YES];
 	[self loadSettings];
 	
 	background = [UIImage imageWithContentsOfFile: [NSString stringWithFormat:@"%@%@",[NSHomeDirectory() stringByAppendingPathComponent:@"Documents"],@"/Background.png"]];
@@ -513,7 +548,7 @@
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations
 	[self repositionInterface];
-		return YES; //(interfaceOrientation == UIInterfaceOrientationPortrait);
+		return (interfaceOrientation == UIInterfaceOrientationPortrait);//YES; //(interfaceOrientation == UIInterfaceOrientationPortrait);
 	return NO;
 }
 //This method gets called before rotation so you can move your controls into the right spots.

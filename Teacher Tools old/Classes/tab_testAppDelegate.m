@@ -28,6 +28,19 @@
 	
     [window addSubview:tabBarController.view];
     [window makeKeyAndVisible];
+    
+    NSError *setCategoryErr = nil;
+    NSError *activationErr  = nil;
+    [[AVAudioSession sharedInstance] setCategory: AVAudioSessionCategoryPlayback error:&setCategoryErr];
+    [[AVAudioSession sharedInstance] setActive:YES error:&activationErr];
+    
+    UIUserNotificationType types = UIUserNotificationTypeBadge |
+    UIUserNotificationTypeSound | UIUserNotificationTypeAlert;
+    
+    UIUserNotificationSettings *mySettings =
+    [UIUserNotificationSettings settingsForTypes:types categories:nil];
+    
+    [[UIApplication sharedApplication] registerUserNotificationSettings:mySettings];
 
     return YES;
 }
@@ -39,15 +52,19 @@
      Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
      Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
      */
+    
+    //NSLog(@"Resigning application from active to inactive");
 	[tabBarController saveSettings];
-	Class cls = NSClassFromString(@"UILocalNotification");
+	//Class cls = NSClassFromString(@"UILocalNotification");
 	timerActive = FALSE;
 	timerRang = TRUE;
-	if (tabBarController.timer && cls) {
+    if (tabBarController.timer) {// && cls) {
 		timerActive = TRUE;
 		timerRang = FALSE;
 		[tabBarController.timer invalidate];
 		tabBarController.timer = nil;
+        
+        /*
 		UIApplication *app                = [UIApplication sharedApplication];
 		UILocalNotification *notification = [[UILocalNotification alloc] init];
 		
@@ -63,6 +80,52 @@
 		notification.soundName = @"Timer Ting.aiff";
 		
 		[app scheduleLocalNotification:notification];
+         */
+        UILocalNotification* alarm = [[UILocalNotification alloc] init];
+        //NSLog(@"Trying to create alarm");
+        if (alarm)
+        {
+            //NSLog(@"Created alarm");
+            //alarm.fireDate = [NSDate dateWithTimeIntervalSinceNow:
+            //                  [[tabBarController.secondsTxt text] intValue]+
+            //                  [[tabBarController.minutesTxt text] intValue]*60+
+            //                  [[tabBarController.hoursTxt text] intValue]*60*60
+            //                  ];
+            NSLog(@"Second away from now: %d", [[tabBarController.secondsTxt text] intValue]+
+                  [[tabBarController.minutesTxt text] intValue]*60+
+                  [[tabBarController.hoursTxt text] intValue]*60*60);
+            //alarm.timeZone = [NSTimeZone defaultTimeZone];
+            //alarm.repeatInterval = 0;
+            //alarm.soundName = @"Timer Ting.aiff";
+            
+            //[[UIApplication sharedApplication] scheduleLocalNotification:alarm];
+            
+            
+            // Set the fire date/time
+            [alarm setFireDate:[NSDate dateWithTimeIntervalSinceNow:
+                                [[tabBarController.secondsTxt text] intValue]+
+                                [[tabBarController.minutesTxt text] intValue]*60+
+                                [[tabBarController.hoursTxt text] intValue]*60*60
+                                ]];
+            [alarm setTimeZone:[NSTimeZone defaultTimeZone]];
+            
+            
+            alarm.applicationIconBadgeNumber = 1;
+            
+            // Setup alert notification
+            [alarm setAlertAction:@"Open App"];
+            [alarm setAlertBody:@"Time's Up!"];
+            
+            alarm.soundName=@"Timer Ting.aiff";//UILocalNotificationDefaultSoundName;
+            [alarm setHasAction:YES];
+            
+            UIApplication *app=[UIApplication sharedApplication];
+            [app scheduleLocalNotification:alarm];
+            
+            
+            
+            NSLog(@"Alarm scheduled");
+        }
 	}
 	tabBarController.backgroundTime = [[NSDate alloc] init];
 }
@@ -77,7 +140,9 @@
 }
 
 - (void)application:(UIApplication *)application didReceiveLocalNotification:(UILocalNotification *)notification {
-	//NSLog(@"Recieved Notification");
+    
+    
+	NSLog(@"Recieved Notification");
 	if (timerActive) {
 		[tabBarController.timer invalidate];
 		tabBarController.timer = nil;
@@ -100,6 +165,7 @@
 
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
+    [[UIApplication sharedApplication] setApplicationIconBadgeNumber:0];
 	//NSLog(@"Active");
     /*
      Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
